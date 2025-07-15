@@ -169,7 +169,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Author
 
-**Lovnish Verma**
+**Mr. Lovnish Verma**
 [🔗 Portfolio](https://lovnishverma.github.io/) • [🔗 GitHub](https://github.com/lovnishverma)
 
 ---
